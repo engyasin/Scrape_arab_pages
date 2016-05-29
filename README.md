@@ -3,7 +3,7 @@ a small and sort of stupide program to scrap arabic web pages with windows-1256 
 
 windows1256 ==> utf-8
 
-**require:**
+**requires :**
 
 - python 2.7
 - requests
